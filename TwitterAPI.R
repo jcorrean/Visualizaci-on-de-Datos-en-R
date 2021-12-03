@@ -1,8 +1,8 @@
 library(twitteR)
-consumerKey <- "sXw2U0g2NjprKWqJnW7Smt3iR"
-consumerSecret <- "ONzRnrmc7BVHbakKBcXBHmIP1LxcGmkyKfsTaT53GCVR1iswX3"
-accessToken <- "106483037-636HLJ1Uq1iA4XBtXijkgt2laX3Uoy6oEactvogs"
-accessTokenSecret <- "LSDvtQ3GvomVI0weUrrhjMpACpvVGqGxomFkFpK5YFXW2"
+consumerKey <- "coLoCar AquI La CrEdenCial"
+consumerSecret <- "coLoCar AquI La CrEdenCial"
+accessToken <- "coLoCar AquI La CrEdenCial"
+accessTokenSecret <- "coLoCar AquI La CrEdenCial"
 
 setup_twitter_oauth(consumerKey, consumerSecret, accessToken,
                     accessTokenSecret)
